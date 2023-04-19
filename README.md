@@ -56,3 +56,11 @@ Github Lab
 Learn Git Branching
 
 CodeWars
+
+## Certificaations
+python institute certificates
+hackerrank certificates
+Codingsignal certificate
+C and C++ Certifications
+Oracle Certified Associate Java Programmer OCAJP
+Certified Associate in Python Programming (PCAP)
